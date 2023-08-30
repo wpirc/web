@@ -109,7 +109,7 @@ comments:
   provider: "staticman_v2"
   staticman:
     branch: "master"
-    endpoint: https://comments.kiwichat.eu.org/v3/entry/github/
+    endpoint: https://api.wpirc.eu.org/v3/entry/github/
 
 staticman:
   branch: "master"
