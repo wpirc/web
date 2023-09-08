@@ -1,6 +1,6 @@
 ---
 title: "KiwiChat NextClient WordPress plugin"
-date: 2022-08-29-18T20:34:30-04:00
+date: 2023-09-08-18T20:34:30-04:00
 categories:
   - blog
 tags:
@@ -9,7 +9,7 @@ tags:
   - irc
   - chat
 header:
-  teaser: "/assets/plugins/kiwichat/banner-772x250.png"
+  teaser: /assets/plugins/kiwichat/banner-772x250.png
 ---
 
 #### KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
@@ -61,8 +61,8 @@ header:
   
 ---
 
-### Current stable version of the plugin ```6.0```
-### Last update ```30/08/2022```
+### Current stable version of the plugin ```6.2```
+### Last update ```08/09/2023```
 
 ### License
 
