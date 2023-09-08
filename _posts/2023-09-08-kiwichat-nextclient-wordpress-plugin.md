@@ -1,6 +1,6 @@
 ---
 title: "KiwiChat NextClient WordPress plugin"
-date: 2023-09-08-18T20:34:30-04:00
+date: 2023-09-07-18T20:34:30-04:00
 categories:
   - blog
 tags:
