@@ -9,7 +9,8 @@ tags:
   - irc
   - chat
 header:
-  teaser: /assets/plugins/kiwichat/banner-772x250.png
+ overlay_image: /assets/images/teaser-image.png
+ teaser: /assets/plugins/kiwichat/banner-772x250.png
 ---
 
 #### KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
