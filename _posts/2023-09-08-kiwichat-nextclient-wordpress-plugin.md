@@ -9,7 +9,7 @@ tags:
   - irc
   - chat
 header:
-  teaser: /assets/plugins/kiwichat/banner-772x250.png
+  teaser: "/assets/plugins/kiwichat/banner-772x250.png"
 ---
 
 #### KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
@@ -45,7 +45,7 @@ header:
   
 ## Screenshots
 
-![Plugin configuration](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-1.png "Plugin configuration options page")
+![Plugin configuration](/assets/plugins/kiwichat/screenshot-1.png "Plugin configuration options page")
 
 ---
 
