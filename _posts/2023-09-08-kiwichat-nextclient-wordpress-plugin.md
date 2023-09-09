@@ -9,12 +9,12 @@ tags:
   - irc
   - chat
 header:
-  overlay_image: /assets/images/teaser-image.png
+  overlay_image: /assets/plugins/kiwichat/banner-772x250.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**KiwiChat**](https://kiwichat.eu.org)"
   actions:
     - label: "More Info"
-      url: "https://unsplash.com"
+      url: "https://wordpress.org/plugins/kiwichat/"
   teaser: /assets/plugins/kiwichat/banner-772x250.png
 ---
 
